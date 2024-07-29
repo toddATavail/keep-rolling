@@ -1,0 +1,6 @@
+[FORMAT]
+# Use tabs for indentation.
+indent-string=\t
+
+# Forbid long lines.
+max-line-length=80
